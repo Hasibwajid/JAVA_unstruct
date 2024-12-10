@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4a8b23f-569d-4fcc-9d80-af76c5d80e19" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24QPNlxIE2sXhibpn53gg59rxXV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/SEMESTER_02/src/PRACTICE_BASIC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DATA_STRUCTURE_AND_ALGO/ARRAYS/LINKED_LIST/LAB_ASSIGNMENTS" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDES_CODE\IdeaProjects\PRACTICE_PROBLEMS_JAVA\DATA_STRUCTURE_AND_ALGO\ARRAYS\LINKED_LIST\LAB_ASSIGNMENTS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\INTELLI J AND PYCHARM PROJECTS\IdeaProjects\PRACTICE_PROBLEMS_JAVA\PRACTICE_PRACTICE\OTHERS" />
+      <recent name="D:\INTELLI J AND PYCHARM PROJECTS\IdeaProjects\PRACTICE_PROBLEMS_JAVA\PRACTICE_PRACTICE\LOOPS" />
+      <recent name="D:\INTELLI J AND PYCHARM PROJECTS\IdeaProjects\PRACTICE_PROBLEMS_JAVA\PRACTICE_PRACTICE\METHODS" />
+      <recent name="D:\INTELLI J AND PYCHARM PROJECTS\IdeaProjects\PRACTICE_PROBLEMS_JAVA\PRACTICE_PRACTICE\PATTERNS_PROBLEMS" />
+      <recent name="D:\INTELLI J AND PYCHARM PROJECTS\IdeaProjects\PRACTICE_PROBLEMS_JAVA\SEMESTER_02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DATA_STRUCTURE_AND_ALGO.ARRAYS.QUEUE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AllAboutBinarySearchTree">
+    <configuration name="AllAboutBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.AllAboutBinarySearchTree" />
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllAboutBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.AllAboutBinaryTree" />
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.BinarySearchTree" />
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SE_MID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.MID_PREP.SE_MID" />
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.MID_PREP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builtBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.builtBTree" />
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DATA_STRUCTURE_AND_ALGO.ARRAYS.TREES.ForUnderstand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PRACTICE_PROBLEMS_JAVA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AllAboutBinarySearchTree" />
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.AllAboutBinaryTree" />
+        <item itemvalue="Application.builtBTree" />
+        <item itemvalue="Application.SE_MID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a8b23f-569d-4fcc-9d80-af76c5d80e19" name="Changes" comment="" />
+      <created>1643559801942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643559801942</updated>
+    </task>
+    <servers />
+  </component>
+</project>

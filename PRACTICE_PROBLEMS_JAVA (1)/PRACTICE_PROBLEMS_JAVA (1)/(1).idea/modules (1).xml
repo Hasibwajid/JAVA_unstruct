@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRACTICE_PROBLEMS_JAVA.iml" filepath="$PROJECT_DIR$/PRACTICE_PROBLEMS_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEMESTER_02/SEMESTER_02.iml" filepath="$PROJECT_DIR$/SEMESTER_02/SEMESTER_02.iml" />
+    </modules>
+  </component>
+</project>

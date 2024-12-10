@@ -1,0 +1,18 @@
+
+    * Arrays
+    * Classes
+    * Objects
+    * Constuctors
+    * This (Keyword)
+    * Static (Keyword)
+    * Inheritance (Is A relationship)
+    * Super (Keyword)
+    * Getter/Setter
+    * Access Modifiers/Specifiers
+    * Final (Keyword)
+    * NameLess Object (new Class( ))
+    * ArrayList
+    * Search in ArrayList by attribute
+    * Key Value Model(Used in mostly databases):
+                                          This concept used in database. Database  respond to request(Query) and sent data as per key value model concept.
+    * Accosiation And Aggregation (Has A RelationShip)
