@@ -1,0 +1,5 @@
+Drank water at:  2021-10-16 11:24:45.143448
+Eye exercise done at:  2021-10-16 11:34:15.809490
+Physical exercise done at:  2021-10-16 11:53:37.342652
+Drank water at:  2021-10-16 11:55:07.889507
+Eye exercise done at:  2021-10-16 12:14:24.169416
